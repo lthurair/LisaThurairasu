@@ -8,7 +8,7 @@ I am passionate about **machine learning, automation, streamlining processes, an
 
 ###📝 Skilled in:
 **Programming Languages:**
-🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)**
+'🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)**
 🔹 **SQL (includes MySQL, NoSQL, SQLite)**
 🔹 **Spark (PySpark and SparkSQL)**
 🔹 **SAS**
@@ -19,18 +19,18 @@ I am passionate about **machine learning, automation, streamlining processes, an
 🔹 **Hadoop**
 🔹 **Data visualization such as Tableau, Matplotlib in Python, and PowerBI**
 
-**🏢 Companies I have worked with include:**
+### **🏢 Companies I have worked with include:**
 - TD Bank (over 8 years)
 - Institute for Clinical Evaluative Sciences (2.5 years)
 - Saskatchewan Population Health and Evaluation Research Unit (SPHERU) (1.5 years)
 
-**🎓 Certifications I have obtained:**
+### **🎓 Certifications I have obtained:**
 - Supervised Machine Learning: Regression (Coursera)
 - Exploratory Data Analysis for Machine Learning (Coursera)
 - SAS SQL Essentials (SAS)
 - SAS Programming Essentials (SAS)
 
-**📝 Models I have built**:
+### **📝 Models I have built:**
 - Linear Regression
 - Logistic Regression
 - Decision Trees (DT)
