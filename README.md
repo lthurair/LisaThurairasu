@@ -1,4 +1,4 @@
-👋 #Hi, I'm Lisa Thurairasu
+# 👋 Hi, I'm Lisa Thurairasu
 ## Senior Data Scientist | Machine Learning Enthusiast | Cloud & Big Data Expert
 
 ### 🎉 About Me:
@@ -41,12 +41,12 @@ I am passionate about **machine learning, automation, streamlining processes, an
 - XGBoost
 - Long Short-Term Memory (LSTM)
 
-🔥 ##Featured Projects - Here are some of my key projects:
+## 🔥 Featured Projects - Here are some of my key projects:
 
 ### **[UofT Machine Learning Team Project](https://github.com/Retail_Sales)**
 A team project as part of the University of Toronto Machine Learning Software Foundation Certificate which consisted of analyzing a retail dataset and applying machine learning models to predict a customer's product category purchase. A XGBoost model and a Forward Feed Neural Network model were developed.
 
-🚀 ##How to Use My Projects - Most of my projects contain:
+## 🚀 How to Use My Projects - Most of my projects contain:
 - **README files** with setup instructions
 - **Code notebooks** or easy execution
 - **Data (if applicable) or simulated datasets**
@@ -54,7 +54,7 @@ A team project as part of the University of Toronto Machine Learning Software Fo
 
 To get started, check the **ReadMe.md** in each project repository.
 
-🌎 ##Connect with Me
+## 🌎 Connect with Me
 - LinkedIn: [linkedin.com/in/lisathurairasu](https://linkedin.com/in/lisathurairasu)
 - Github: [github.com/LisaThurairasu](https://github.com/lthurair/LisaThurairasu)
 
