@@ -6,18 +6,18 @@ I am a **Data Scientist III** with over 12 years of experience in the **banking 
 
 I am passionate about **machine learning, automation, streamlining processes, and data-driven decision-making.**
 
-###📝 Skilled in:
+###📝 Skilled in: <br/>
 **Programming Languages:** <br/>
- 🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)**
- 🔹 **SQL (includes MySQL, NoSQL, SQLite)**
- 🔹 **Spark (PySpark and SparkSQL)**
- 🔹 **SAS**
- 🔹 **SPSS**
-**Tools and Technology:**
-🔹 **Azure on Databricks**
-🔹 **Jupyter Notebook**
-🔹 **Hadoop**
-🔹 **Data visualization such as Tableau, Matplotlib in Python, and PowerBI**
+ 🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)** <br/>
+ 🔹 **SQL (includes MySQL, NoSQL, SQLite)** <br/>
+ 🔹 **Spark (PySpark and SparkSQL)** <br/>
+ 🔹 **SAS** <br/>
+ 🔹 **SPSS** <br/>
+**Tools and Technology:** <br/>
+🔹 **Azure on Databricks** <br/>
+🔹 **Jupyter Notebook** <br/>
+🔹 **Hadoop** <br/>
+🔹 **Data visualization such as Tableau, Matplotlib in Python, and PowerBI** <br/>
 
 ### **🏢 Companies I have worked with include:**
 - TD Bank (over 8 years)
