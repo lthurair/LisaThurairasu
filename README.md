@@ -15,13 +15,13 @@ I am a **Data Scientist III** with over 12 years of experience in the **banking 
 - Saskatchewan Population Health and Evaluation Research Unit (SPHERU) (1.5 years)
 
 **Certifications I have obtained:**
-•	Supervised Machine Learning: Regression (Coursera)
-•	Exploratory Data Analysis for Machine Learning (Coursera)
-•	SAS SQL Essentials (SAS)
-•	SAS Programming Essentials (SAS)
+- Supervised Machine Learning: Regression (Coursera)
+- Exploratory Data Analysis for Machine Learning (Coursera)
+- SAS SQL Essentials (SAS)
+- SAS Programming Essentials (SAS)
+- 
 
-
-## &#128293 Featured Projects - Here are some of my key projects:
+## Featured Projects - Here are some of my key projects:
 
 ### **[UofT Machine Learning Team Project](https://github.com/Retail_Sales)**
 A team project as part of the University of Toronto Machine Learning Software Foundation Certificate which consisted of analyzing a retail dataset and applying machine learning models to predict a customer's product category purchase. A XGBoost model and a Forward Feed Neural Network model were developed.
