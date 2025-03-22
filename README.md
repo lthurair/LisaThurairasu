@@ -19,7 +19,7 @@ I am a **Data Scientist III** with over 12 years of experience in the **banking 
 - Exploratory Data Analysis for Machine Learning (Coursera)
 - SAS SQL Essentials (SAS)
 - SAS Programming Essentials (SAS)
-- 
+
 
 ## Featured Projects - Here are some of my key projects:
 
@@ -28,11 +28,11 @@ A team project as part of the University of Toronto Machine Learning Software Fo
 
 ## How to Use My Projects - Most of my projects contain:
 - **README files** with setup instructions
-- **Code notebooks* or easy execution
+- **Code notebooks** or easy execution
 - **Data (if applicable) or simulated datasets**
 - **Visualization in Python**
 
-To get started, check the **README.md** in each project repository.
+To get started, check the **ReadMe.md** in each project repository.
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/lisathurairasu](https://linkedin.com/in/lisathurairasu)
