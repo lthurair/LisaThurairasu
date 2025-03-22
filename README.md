@@ -8,11 +8,11 @@ I am passionate about **machine learning, automation, streamlining processes, an
 
 ###📝 Skilled in:
 **Programming Languages:**
-'🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)**
-🔹 **SQL (includes MySQL, NoSQL, SQLite)**
-🔹 **Spark (PySpark and SparkSQL)**
-🔹 **SAS**
-🔹 **SPSS**
+ 🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)**
+ 🔹 **SQL (includes MySQL, NoSQL, SQLite)**
+ 🔹 **Spark (PySpark and SparkSQL)**
+ 🔹 **SAS**
+ 🔹 **SPSS**
 **Tools and Technology:**
 🔹 **Azure on Databricks**
 🔹 **Jupyter Notebook**
