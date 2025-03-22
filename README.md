@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Lisa Thurairasu
 ## Senior Data Scientist | Machine Learning Enthusiast | Cloud & Big Data Expert
 
-### 🎉 About Me
+## 🎉 About Me
 I am a **Data Scientist III** with over 12 years of experience in the **banking and healthcare** industries. I specialize in **data science, advanced analytics, machine learning, cloud computing (Microsft Azure on Databricks), and big data technologies**. I have a Bachelor of Science (BSc) in Life Sciences from McMaster University and a Master of Science (MSc) in Community and Population Health Science (also known as Epidemiology) with courses in Biostatistics, Biostatistical Methods, Applied Statistical Methods, and Epidemiology. In addition, I have a Machine Learning Software Foundations Certificate from the University of Toronto.
 
 I am passionate about **machine learning, automation, streamlining processes, and data-driven decision-making.**
 
-### 📝 Skilled in: <br/>
+## 📝 Skilled in: <br/>
 
-   #### **Programming Languages:** <br/>
+   ### **Programming Languages:** <br/>
  🔹 **Python (libraries include scikit-learn, tensorflow, keras, scala, plotly, matplotlib, numpy, pandas)** <br/>
  🔹 **SQL (includes MySQL, NoSQL, SQLite)** <br/>
  🔹 **Spark (PySpark and SparkSQL)** <br/>
  🔹 **SAS** <br/>
  🔹 **SPSS** <br/>
  
-   #### **Tools and Technology:** <br/>
+   ### **Tools and Technology:** <br/>
 🔹 **Azure on Databricks** <br/>
 🔹 **Jupyter Notebook** <br/>
 🔹 **Hadoop** <br/>
