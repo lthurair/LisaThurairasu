@@ -48,11 +48,20 @@ I have also created production pipelines to organize, streamline, and scale proc
 ## 🔥 Featured Projects
 ### Here are some of my key projects:
 
-### **1) [UofT Machine Learning Team Project](https://github.com/Retail_Sales)**
+### **1) [UofT Machine Learning Team Project](https://github.com/lthurair/Retail_Sales.git)**
 A team project as part of the University of Toronto Machine Learning Software Foundation Certificate which consisted of analyzing a retail dataset and applying machine learning models to predict a customer's product category purchase. A XGBoost model and a Forward Feed Neural Network model were developed.
 
-### **2) [Credit Datamart Base Tables](https://github.com/work)**
-I developed base tables for a credit datamart in which multiples tables containing primary and foreign keys were joined. Each table was created based on a theme and the frequency of joins used in various reports.
+### **2) [Datamarts](https://github.com/lthurair/work.git)**
+I developed base tables for a credit datamart in which multiples tables containing primary and foreign keys were joined. Each table was created based on a theme and the frequency of joins used in various reports. This allowed for analysts to query the base tables instead of rewriting the same queries over and over again. In additon, I was responsible for creating hundreds of features for a Customer Lifetime Value project. I created various base tables based on customer attributes, sales volume/widgets, credit volume/widgets, referrals, etc. You can find all this work in the "datamarts" folder.
+
+### **3) [SBB Scorecard](https://github.com/lthurair/work.git)**
+I created scorecards for the Small Business Banking (SBB) portfolio. The scorecards contained performance KPIs, specifically sales metrics on credit and referral volume, for all account managers and their managers. Three scorecards were developed - for account managers, area managers, and senior managers. The development took place in Jupyter Notebook and Pyspark was used to create the metrics. I created a Tableau dashboard to display the scorecards based on the final table. The scorecard scripts can be found under the "sbb_scorecard" folder.
+
+### **3) [Ad-hocs](https://github.com/lthurair/work.git)**
+Under the "ad-hoc notebooks" folder, you will find notebooks containing various ad-hoc requests.
+
+### **4) [Hierarchies](https://github.com/lthurair/work.git)**
+I developed the org hierarchy/alignment as the foundation for all reporting. This hierarchy/alignment maps branches to districts to regions as well as to the people.
 
 
 ## 🚀 How to Use My Projects
