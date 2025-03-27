@@ -75,6 +75,6 @@ To get started, check the **ReadMe.md** in each project repository.
 
 ## 🌎 Connect with Me
 - LinkedIn: [linkedin.com/in/lisathurairasu](https://linkedin.com/in/lisathurairasu)
-- Github: [github.com/LisaThurairasu](https://github.com/lthurair/LisaThurairasu)
+- Github: [github.com/lthurair/LisaThurairasu](https://github.com/lthurair/LisaThurairasu)
 
 
