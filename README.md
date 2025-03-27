@@ -57,10 +57,10 @@ I developed base tables for a credit datamart in which multiples tables containi
 ### **3) [SBB Scorecard](https://github.com/lthurair/work.git)**
 I created scorecards for the Small Business Banking (SBB) portfolio. The scorecards contained performance KPIs, specifically sales metrics on credit and referral volume, for all account managers and their managers. Three scorecards were developed - for account managers, area managers, and senior managers. The development took place in Jupyter Notebook and Pyspark was used to create the metrics. I created a Tableau dashboard to display the scorecards based on the final table. The scorecard scripts can be found under the "sbb_scorecard" folder.
 
-### **3) [Ad-hocs](https://github.com/lthurair/work.git)**
+### **4) [Ad-hocs](https://github.com/lthurair/work.git)**
 Under the "ad-hoc notebooks" folder, you will find notebooks containing various ad-hoc requests.
 
-### **4) [Hierarchies](https://github.com/lthurair/work.git)**
+### **5) [Hierarchies](https://github.com/lthurair/work.git)**
 I developed the org hierarchy/alignment as the foundation for all reporting. This hierarchy/alignment maps branches to districts to regions as well as to the people.
 
 
